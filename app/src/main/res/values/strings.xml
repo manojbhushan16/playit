@@ -1,0 +1,16 @@
+<resources>
+
+
+        <string name="channel_name">PlayIt Music Player</string>
+        <string name="channel_description">Controls for currently playing music</string>
+
+    <string name="app_name">PlayIt</string>
+    <string name="default_web_client_id">299849895582-vmoqam6imgb80g0d434ovc6v4ocdmfnh.apps.googleusercontent.com</string>
+    <string name="channel_id">playit_media_channel</string>
+    <string name="notification_channel_name">PlayIt Player</string>
+    <string name="notification_channel_description">Controls for currently playing music</string>
+    <string name="previous">Previous</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+</resources>

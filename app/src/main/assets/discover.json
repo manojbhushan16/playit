@@ -1,0 +1,60 @@
+{
+  "results": [
+    {
+      "id": "s1",
+      "name": "Skyline",
+      "artist_name": "Aether",
+      "duration": 180,
+      "audio": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "audio_download": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "image": "https://picsum.photos/seed/skyline/300/300"
+    },
+    {
+      "id": "s2",
+      "name": "Neon Nights",
+      "artist_name": "Lumen",
+      "duration": 210,
+      "audio": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "audio_download": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "image": "https://picsum.photos/seed/neon/300/300"
+    },
+    {
+      "id": "s3",
+      "name": "LoFi Drift",
+      "artist_name": "Calmway",
+      "duration": 240,
+      "audio": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3",
+      "audio_download": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3",
+      "image": "https://picsum.photos/seed/lofi/300/300"
+    },
+    {
+      "id": "s4",
+      "name": "Echoes",
+      "artist_name": "Northwind",
+      "duration": 195,
+      "audio": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3",
+      "audio_download": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3",
+      "image": "https://picsum.photos/seed/echo/300/300"
+    },
+    {
+      "id": "s5",
+      "name": "Solaris",
+      "artist_name": "Helio",
+      "duration": 225,
+      "audio": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "audio_download": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3",
+      "image": "https://picsum.photos/seed/solaris/300/300"
+    },
+    {
+      "id": "s6",
+      "name": "Aurora",
+      "artist_name": "Polar",
+      "duration": 205,
+      "audio": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "audio_download": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3",
+      "image": "https://picsum.photos/seed/aurora/300/300"
+    }
+  ]
+}
+
+
